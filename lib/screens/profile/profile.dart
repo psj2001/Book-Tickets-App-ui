@@ -144,7 +144,9 @@ class Profile extends StatelessWidget {
                         Text(
                           "You\' got a new award ",
                           style: Styles.headLineStyle2.copyWith(
-                              color: Colors.white, fontWeight: FontWeight.bold),
+                              fontSize: 20,
+                              color: Colors.white,
+                              fontWeight: FontWeight.bold),
                         ),
                         Text(
                           "You have 95 flights  ",
