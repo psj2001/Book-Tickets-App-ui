@@ -1,6 +1,6 @@
 # book_tickets
 
-A new Flutter project.
+A new Flutter project with complete ui.
 
 ## Getting Started
 
